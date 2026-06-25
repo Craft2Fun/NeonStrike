@@ -6,7 +6,7 @@ Welcome to **NeonStrike**, a fast-paced, retro-arcade-inspired reaction game! Te
 
 
 
-#### Features
+### Features
 
 * Retro Arcade Aesthetic: Beautiful neon visuals, glowing animations, and a nostalgic 8-bit vibe.
 * Fast-Paced Gameplay: Quick rounds, high-score tracking, and challenging reaction tests.
@@ -15,7 +15,7 @@ Welcome to **NeonStrike**, a fast-paced, retro-arcade-inspired reaction game! Te
 
 
 
-#### Installation
+### Installation
 
 1. Download "NeonStrike\_Installer.exe" from the latest release.
 2. Run the installer and choose your preferred installation directory.
@@ -24,7 +24,7 @@ Welcome to **NeonStrike**, a fast-paced, retro-arcade-inspired reaction game! Te
 
 
 
-#### Tech Stack
+### Tech Stack
 
 * Frontend: React, TypeScript, Vite, Vanilla CSS
 * Launcher \& Installer: C# (.NET 10), WinForms
