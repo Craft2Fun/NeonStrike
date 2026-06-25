@@ -24,6 +24,12 @@ Welcome to **NeonStrike**, a fast-paced, retro-arcade-inspired reaction game! Te
 
 
 
+### AI Usage Disclosure
+
+The graphical assets in this project, including the game icon, UI elements, and the social preview image, were created using AI image generation tools to achieve the game's retro-arcade aesthetic.
+
+
+
 ### Tech Stack
 
 * Frontend: React, TypeScript, Vite, Vanilla CSS
